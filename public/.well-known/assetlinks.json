@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.zurdo.malcolm",
+    "sha256_cert_fingerprints":
+      ["ac:98:d2:45:5b:e1:8b:3d:b3:80:ee:d3:ff:5e:89:38:63:5f:24:ab:64:78:a7:2b:8e:5d:23:20:33:45:8f:ca"]
+   }
+}]
